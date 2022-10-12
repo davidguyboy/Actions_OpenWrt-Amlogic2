@@ -1,0 +1,7 @@
+src-git core https://downloads.openwrt.org/snapshots/targets/armvirt/64/packages
+src-git base https://op.supes.top/packages/aarch64_cortex-a53/base
+src-git packages https://op.supes.top/packages/aarch64_cortex-a53/packages
+src-git luci https://op.supes.top/packages/aarch64_cortex-a53/luci
+src-git routing https://op.supes.top/packages/aarch64_cortex-a53/routing
+#src-git telephony https://git.openwrt.org/feed/telephony
+src-git kiddin9 https://op.supes.top/packages/aarch64_cortex-a53
